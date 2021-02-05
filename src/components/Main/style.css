@@ -1,0 +1,51 @@
+
+main {
+    display:flex;
+    max-width: 1220px;
+    margin: 0;
+
+  }
+  
+  .items {
+    display: grid;
+    margin: 5rem;
+    
+  }
+  
+  .logo>img {
+    width: 90px;
+    height: 110px;
+  }
+ .slogan{
+   display: flex;
+   align-items: center;
+   margin-bottom: 8em;
+ }
+ .dorotheas{
+  margin-bottom: 8em;
+ }
+  .school_title {
+    align-items: center;
+  
+   
+  }
+
+.school_title {
+    color: #FCBF49;
+    text-transform: uppercase;
+    margin-left: 2rem;
+  }
+
+  .mais_de {
+    display: flex;
+    color: #ffffff;
+}
+
+.bullet_curso {
+    display: flex;
+    margin-right: 3rem;
+}
+
+.bullet_curso span {
+    margin-top: 5px;
+}
